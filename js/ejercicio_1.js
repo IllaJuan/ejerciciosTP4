@@ -6,7 +6,7 @@ class Auto {
     }
 
     encender() {
-        document.write("Auto encendido");
+        document.write("Auto encendido<br>");
     }
     apagar() {
         document.write("El auto se apagó");
